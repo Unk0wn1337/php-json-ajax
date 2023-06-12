@@ -1,0 +1,19 @@
+{
+  "konyvek": [
+    {
+      "szerzo": "Norman Doidge",
+      "cim": "A valtozo agy",
+      "kep": "kepek/valtozo.jpg"
+    },
+    {
+      "szerzo": "Erin Hunter",
+      "cim": "Harcosok törzse",
+      "kep": "kepek/R.jpg"
+    },
+    {
+      "szerzo": "Závada Péter",
+      "cim": "Ahol megszakad",
+      "kep": "kepek/OIP.jpg"
+    }
+  ]
+}
